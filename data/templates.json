@@ -1,0 +1,4 @@
+[
+  { "name": "Sale", "headline": "Year-End Mega Sale", "offer": "Up to 50% off", "cta": "Shop Now", "color": "#0a5cff" },
+  { "name": "Webinar", "headline": "Free Marketing Webinar", "offer": "Reserve your seat", "cta": "Register", "color": "#7a00e6" }
+]

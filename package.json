@@ -1,0 +1,12 @@
+{
+  "name": "ad-banner-generator",
+  "version": "1.0.0",
+  "description": "Brand-safe ad and promotion banner generator: one input, many ad sizes.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/banners.test.js"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
